@@ -1,4 +1,4 @@
-# Pac-Man
+# Fruity Crush
 > Uma cópia do jogo Candy Crush desenvolvido como projeto final da disciplina de Microcontroladores (EMB5642) na UFSC - Campus Joinville em 2019.2
 
 O jogo foi desenvolvido em C para o microcontrolador Tiva-C TM4C123G acoplado a uma [PCB](/PCB) e a um display LCD Nokia 5110. Ele foi desenvolvido no Code Composer Studio, e todos os sprites utilizados são de autoria própria, tendo sido transformados em bitmaps neste [site](https://sparks.gogo.co.nz/pcd8554-bmp.html).
